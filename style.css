@@ -1,0 +1,132 @@
+.bg-container{
+    background-color:rgb(6, 6, 65);
+    height:100vh;
+}
+.top-container{
+    background-color: rgb(35, 35, 100);
+    color:white;
+    padding:20px;
+}
+.nav-items{
+    margin-left:200px;
+    text-align:right;
+}
+.list-items{
+    padding: 10px;
+}
+.content{
+    color:#ffffff;
+    font-size:50px;
+    font-family: Bree serif;
+    padding:20px;
+}
+.message{
+    margin-top:200px;
+}
+.name{
+    color:blueviolet;
+}
+.image{
+    margin-left:10px;
+    height:68vh;
+}
+.user-input{
+    background-color: rgb(6, 6, 65);
+    color:blueviolet;
+    border:none;
+    outline: none;
+}
+.read-btn{
+    border-style: solid;
+    border-color:white;
+    background-color: transparent;
+}
+
+
+
+
+
+.bg-container-2{
+    background-color:rgb(39, 133, 215);
+    height:100vh;
+    color:white;
+    text-align: center;
+    padding:40px;
+}
+.about-heading{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.green{
+    color:deeppink;
+    font-weight: bold;
+    font-size:30px;
+}
+.about-content{
+    font-size:20px;
+    margin:50px;
+}
+
+
+
+
+.bg-container-3{
+    background-color: black;
+    text-align: center;
+    color:white;
+    height:100vh;
+    padding:20px;
+}
+.service-head{
+    margin-top:60px;
+}
+.services{
+    margin-left:200px;
+}
+.service{
+    padding:30px;
+    background-color: rgb(78, 75, 75);
+    color:white;
+    margin:20px;
+}
+
+
+
+
+
+.bg-container-4{
+    background-color: gray;
+    height:100vh;
+    padding:20px;
+    text-align: center;
+    color:white;
+}
+.skills-head{
+    margin-top:100px;
+    margin-bottom:60px;
+}
+.skill-btn{
+    font-weight: bold;
+}
+.mail{
+    height:5vh;
+    margin:20px;
+    margin:20px;
+}
+
+
+
+
+
+.bg-container-5{
+    background-color: #b5c6ef;
+    height:100vh;
+    padding:200px;
+    color: #ffffff;
+}
+.inputs{
+    background-color: rgb(83, 84, 92);
+    color:rgb(141, 148, 195);
+    width:50vw;
+    color:white;
+}
